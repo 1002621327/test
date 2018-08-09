@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jd" />
+        <module name="lucene" />
+        <module name="spring-security" />
+        <module name="SpringMVC_01" />
+        <module name="SpringMVC_02" />
+        <module name="ssm-dao" />
+        <module name="ssm-domain" />
+        <module name="ssm-service" />
+        <module name="ssm-web" />
+        <module name="SSM01" />
+        <module name="ssm_user_dao" />
+        <module name="ssm_user_domain" />
+        <module name="ssm_user_service" />
+        <module name="ssm_user_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="adminLTE" target="1.8" />
+      <module name="exam1" target="1.8" />
+      <module name="jd" target="1.5" />
+      <module name="lucene" target="1.5" />
+      <module name="solrJ" target="1.8" />
+      <module name="spring-security" target="1.8" />
+      <module name="SpringMVC_01" target="1.8" />
+      <module name="SpringMVC_02" target="1.8" />
+      <module name="ssm-dao" target="1.8" />
+      <module name="ssm-domain" target="1.8" />
+      <module name="ssm-service" target="1.8" />
+      <module name="ssm-web" target="1.8" />
+      <module name="SSM01" target="1.8" />
+      <module name="ssm_dao" target="1.8" />
+      <module name="ssm_domain" target="1.8" />
+      <module name="SSM_main" target="1.8" />
+      <module name="SSM_parent" target="1.8" />
+      <module name="ssm_parent" target="1.8" />
+      <module name="ssm_service" target="1.8" />
+      <module name="ssm_user_dao" target="1.8" />
+      <module name="ssm_user_domain" target="1.8" />
+      <module name="ssm_user_service" target="1.8" />
+      <module name="ssm_user_web" target="1.8" />
+      <module name="ssm_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

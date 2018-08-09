@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../adminLTE" />
+    <file type="web" url="file://$PROJECT_DIR$/../day57_springmvc_1" />
+    <file type="web" url="file://$PROJECT_DIR$/../exam1" />
+    <file type="web" url="file://$PROJECT_DIR$/../jd" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-security" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringMVC_01" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringMVC_02" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM01" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_main/ssm-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm_parent/ssm_user_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_parent_old/ssm_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../exam1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC_02/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM01/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../adminLTE/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_main/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/../jd/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../SSM_parent_old/pom.xml" />
+        <option value="$PROJECT_DIR$/../solrJ/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm_parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/../SSM_parent">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://sun-pc:8443/svn/cn/branches" />
+                  <option value="https://sun-pc:8443/svn/cn/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://sun-pc:8443/svn/cn/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

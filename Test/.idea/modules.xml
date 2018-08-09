@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SSM01/SSM01.iml" filepath="$PROJECT_DIR$/../SSM01/SSM01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_main/SSM_main.iml" filepath="$PROJECT_DIR$/../SSM_main/SSM_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC_01/SpringMVC_01.iml" filepath="$PROJECT_DIR$/../SpringMVC_01/SpringMVC_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC_02/SpringMVC_02.iml" filepath="$PROJECT_DIR$/../SpringMVC_02/SpringMVC_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../adminLTE/adminLTE.iml" filepath="$PROJECT_DIR$/../adminLTE/adminLTE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exam1/exam1.iml" filepath="$PROJECT_DIR$/../exam1/exam1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd/jd.iml" filepath="$PROJECT_DIR$/../jd/jd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lucene/lucene.iml" filepath="$PROJECT_DIR$/../lucene/lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-security/spring-security.iml" filepath="$PROJECT_DIR$/../spring-security/spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_main/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/../SSM_main/ssm-dao/ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_main/ssm-domain/ssm-domain.iml" filepath="$PROJECT_DIR$/../SSM_main/ssm-domain/ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_main/ssm-service/ssm-service.iml" filepath="$PROJECT_DIR$/../SSM_main/ssm-service/ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_main/ssm-web/ssm-web.iml" filepath="$PROJECT_DIR$/../SSM_main/ssm-web/ssm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_parent.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_user_dao/ssm_user_dao.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_user_dao/ssm_user_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_user_domain/ssm_user_domain.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_user_domain/ssm_user_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_user_service/ssm_user_service.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_user_service/ssm_user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent/ssm_user_web/ssm_user_web.iml" filepath="$PROJECT_DIR$/../ssm_parent/ssm_user_web/ssm_user_web.iml" />
+    </modules>
+  </component>
+</project>
